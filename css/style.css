@@ -1,0 +1,51 @@
+.fstyle {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 20px !important;
+}
+.section1 {
+  background-image: url(../images/bg-1.jpeg);
+  height: 90vh;
+  width: 100vw;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.528);
+  height: 90vh;
+  width: 100vw;
+}
+a {
+  text-decoration: none !important;
+}
+.small {
+  margin: 5px;
+  width: 200px;
+  height: 180px;
+}
+.span {
+  border-bottom: 2px solid green;
+}
+.abujust {
+  height: 80px;
+  width: 80px;
+}
+.setupto {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+}
+.tow {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+.thambal {
+  height: 80px;
+  width: 50px;
+}
+.carousel-caption {
+  position: absolute;
+  top: 100px;
+  text-align: start !important;
+}
